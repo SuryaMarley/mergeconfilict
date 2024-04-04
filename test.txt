@@ -1,1 +1,1 @@
-city:kandachipuram
+city:kandachipuram,chennai,bangalore
